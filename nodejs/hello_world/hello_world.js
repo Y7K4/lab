@@ -1,7 +1,3 @@
-/*
- * Run "node hello_world.js" from the command line
- * Visit 127.0.0.1:8000 in the browser
- */
 const http = require('http');
 
 const hostname = '127.0.0.1';
